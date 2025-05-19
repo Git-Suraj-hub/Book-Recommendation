@@ -125,4 +125,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 📫 Contact
 
-Created by **Suraj**. For questions or feedback, reach out at `your.email@example.com`.
+Created by **Suraj**. For questions or feedback, reach out at `suraj773714@gmail.com`.
