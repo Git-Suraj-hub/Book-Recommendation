@@ -1,7 +1,8 @@
 # 📚 Book Recommendation System
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/book-recommender?style=social)](https://github.com/yourusername/book-recommender)
+[![GitHub stars](https://img.shields.io/github/stars/Git-Suraj-hub/Book-Recommendation?style=social)](https://github.com/Git-Suraj-hub/Book-Recommendation.git)
+
 
 A personalized book recommendation system built with Python and Streamlit. It recommends books to users based on collaborative filtering and supports genre filtering and favorites management.
 
