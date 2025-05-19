@@ -1,6 +1,6 @@
 # 📚 Book Recommendation System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://book-recommendations-web.streamlit.app/)
 [![GitHub stars](https://img.shields.io/github/stars/Git-Suraj-hub/Book-Recommendation?style=social)](https://github.com/Git-Suraj-hub/Book-Recommendation.git)
 
 
