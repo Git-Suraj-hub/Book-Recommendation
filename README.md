@@ -62,6 +62,12 @@ book-recommender/
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot](page2.png)
+
+---
+
 ## 🌐 Deployment
 
 You can deploy this app on **Streamlit Cloud**:
