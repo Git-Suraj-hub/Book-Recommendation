@@ -64,7 +64,7 @@ book-recommender/
 
 ## 📸 Screenshots
 
-![Screenshot](page2.png)
+![Screenshot](Page2.png)
 
 ---
 
