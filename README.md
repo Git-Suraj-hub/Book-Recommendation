@@ -36,7 +36,7 @@ book-recommender/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/book-recommender.git
+   git clone https://github.com/Git-Suraj-hub/Book-Recommendation.git
    cd book-recommender
    ```
 
